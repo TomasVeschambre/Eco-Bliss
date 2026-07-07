@@ -1,0 +1,9 @@
+Summary,Issue Type,Description,Priority,Epic Name,Labels
+"AUTH - Authentification et acces","Epic","Gestion de la connexion, session, deconnexion et securite d'acces.","Highest","QWENTA-AUTH","qwenta,auth,mvp"
+"MENU - Creation et edition de menu","Epic","Fonctionnalites coeur de creation de menus et de plats.","Highest","QWENTA-MENU","qwenta,menu,mvp"
+"STYLE - Personnalisation visuelle","Epic","Personnalisation typo, couleurs et apercu temps reel.","High","QWENTA-STYLE","qwenta,ui,ux"
+"EXPORT - PDF et impression","Epic","Export du menu en PDF et impression depuis l'application.","Highest","QWENTA-EXPORT","qwenta,export,mvp"
+"MES MENUS - Historique et gestion","Epic","Lister, modifier, supprimer les menus precedemment crees.","High","QWENTA-MES-MENUS","qwenta,crud"
+"LEGAL - Mentions legales et tarifs","Epic","Pages informatives legales et tarifaires.","Medium","QWENTA-LEGAL","qwenta,legal"
+"DIFFUSION - Partage externe","Epic","Diffusion vers partenaires et reseaux sociaux.","Medium","QWENTA-DIFFUSION","qwenta,sharing"
+"PROFIL - Compte et branding restaurant","Epic","Gestion du profil restaurant, logo et couleurs.","High","QWENTA-PROFIL","qwenta,profil"

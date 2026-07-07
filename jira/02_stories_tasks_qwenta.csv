@@ -1,0 +1,28 @@
+Summary,Issue Type,Description,Priority,Labels,Epic Link,Story Points
+"Page login avec validation des champs","Story","Creer un formulaire de connexion avec messages d'erreur clairs et validation robuste.","Highest","qwenta,auth,frontend","QWENTA-AUTH",5
+"Gestion session utilisateur","Story","Conserver la session utilisateur et proteger les routes privees.","Highest","qwenta,auth,frontend","QWENTA-AUTH",5
+"Deconnexion depuis header/sidebar","Task","Ajouter un bouton de deconnexion visible et accessible depuis les pages connectees.","High","qwenta,auth,ui","QWENTA-AUTH",2
+"Creation de menu depuis dashboard","Story","Permettre de creer un menu avec titre, categories et plats.","Highest","qwenta,menu,mvp","QWENTA-MENU",8
+"Ajout de plats par categorie via modale","Story","Ajouter un flux d'ajout de plat via modale cote front React.","Highest","qwenta,menu,ui","QWENTA-MENU",5
+"Validation du formulaire de plat","Task","Controler les champs requis et afficher les erreurs utilisateur.","High","qwenta,menu,quality","QWENTA-MENU",3
+"Edition et suppression d'un plat","Story","Permettre la modification et la suppression dans le builder de menu.","High","qwenta,menu,crud","QWENTA-MENU",5
+"Apercu du menu en temps reel","Story","Afficher un apercu instantane des changements de contenu.","High","qwenta,style,ux","QWENTA-STYLE",5
+"Selecteur de typographie","Task","Ajouter la selection de police appliquee en direct sur l'apercu.","Medium","qwenta,style,ui","QWENTA-STYLE",3
+"Selecteur de couleurs du texte","Task","Permettre le choix de couleur du texte avec mise a jour instantanee.","Medium","qwenta,style,ui","QWENTA-STYLE",3
+"Export PDF en un clic","Story","Generer un PDF a partir du rendu HTML du menu.","Highest","qwenta,export,mvp","QWENTA-EXPORT",8
+"Comparatif html2pdf.js vs jsPDF","Task","Valider la librairie la plus adaptee entre rapidite d'integration et controle fin.","Medium","qwenta,export,tech","QWENTA-EXPORT",2
+"Impression du menu","Story","Permettre l'impression via lien/bouton dedie sans interrompre la navigation.","High","qwenta,export,ux","QWENTA-EXPORT",3
+"Page Mes menus","Story","Lister les menus crees, avec tri et date de mise a jour.","High","qwenta,mes-menus,frontend","QWENTA-MES-MENUS",5
+"Modifier un menu existant","Story","Reprendre un menu existant et le reediter.","High","qwenta,mes-menus,crud","QWENTA-MES-MENUS",5
+"Supprimer un menu","Task","Supprimer un menu avec confirmation utilisateur.","Medium","qwenta,mes-menus,crud","QWENTA-MES-MENUS",2
+"Page Mentions legales","Story","Afficher une page ou modale de mentions legales accessible.","Medium","qwenta,legal,content","QWENTA-LEGAL",3
+"Ajout lien Tarifs","Task","Ajouter un lien tarifs dans la navigation principale.","Medium","qwenta,legal,ui","QWENTA-LEGAL",1
+"Lien Deliveroo/partenaires","Story","Permettre la diffusion via lien externe partenaire.","Medium","qwenta,diffusion,partenaire","QWENTA-DIFFUSION",3
+"Preparation export visuel Instagram","Story","Creer un export image carre compatible Instagram.","Medium","qwenta,diffusion,social","QWENTA-DIFFUSION",5
+"Modifier infos utilisateur","Story","Creer le formulaire de modification des informations de compte.","High","qwenta,profil,frontend","QWENTA-PROFIL",5
+"Definir branding restaurant (logo/couleurs)","Story","Configurer logo et couleurs de marque dans l'interface.","High","qwenta,profil,ui","QWENTA-PROFIL",5
+"Compatibilite navigateurs recents","Task","Valider Chrome, Firefox, Edge, Safari (versions recentes).","Medium","qwenta,qa,accessibilite","QWENTA-STYLE",3
+"Responsive desktop/tablette/mobile","Task","Assurer l'accessibilite des fonctionnalites principales sur tous appareils.","High","qwenta,qa,responsive","QWENTA-STYLE",5
+"Durcissement securite auth","Task","Hash des mots de passe, expiration de session, regles de mot de passe.","Highest","qwenta,securite,backend","QWENTA-AUTH",5
+"Connexion HTTPS et sauvegardes","Task","Configurer HTTPS et politique de sauvegarde reguliere des donnees.","High","qwenta,securite,ops","QWENTA-EXPORT",3
+"Contrat de maintenance et support","Task","Definir surveillance, correction bugs, mises a jour et SLA de support.","Medium","qwenta,maintenance,ops","QWENTA-PROFIL",2

@@ -36,6 +36,8 @@ Installez les dépendances du projet
 npm i
 ou
 npm install (si vous préférez)
+puis
+npm start (pour demarrer le front)
 ```
 
 ## Résultats de tests
